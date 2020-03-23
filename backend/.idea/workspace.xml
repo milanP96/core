@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a91fd7fb-1ee0-457d-8d95-e0dc0ad9be93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqTq5oy4Q2qp9H9V2PNy8SAPpy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="jackpot" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="jackpot" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="python" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a91fd7fb-1ee0-457d-8d95-e0dc0ad9be93" name="Default Changelist" comment="" />
+      <created>1583670847482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583670847482</updated>
+      <workItem from="1583670852858" duration="66000" />
+      <workItem from="1583670919608" duration="697000" />
+      <workItem from="1583672520870" duration="1119000" />
+      <workItem from="1583675555811" duration="10683000" />
+      <workItem from="1583843695348" duration="1198000" />
+      <workItem from="1584105390502" duration="644000" />
+      <workItem from="1584200251678" duration="6529000" />
+      <workItem from="1584827850947" duration="20181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="394" width="570" height="330" key="#Docker" timestamp="1583671006726">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="726" y="394" width="570" height="330" key="#Docker/0.30.1920.1050@0.30.1920.1050" timestamp="1583671006726" />
+    <state x="711" y="360" width="487" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584203615938">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="711" y="360" width="487" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1584203615938" />
+    <state x="693" y="304" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584203054363">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="693" y="304" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1584203054363" />
+    <state x="796" y="449" width="307" height="219" key="DockerComposeFileDialog" timestamp="1583675620570">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="796" y="449" width="307" height="219" key="DockerComposeFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1583675620570" />
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl" timestamp="1584106700794">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="743" y="313" width="424" height="487" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1584106700794" />
+    <state x="464" y="190" width="992" height="733" key="SettingsEditor" timestamp="1584864613855">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="464" y="190" width="992" height="733" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1584864613855" />
+    <state x="653" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1584827858921">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="653" y="382" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1584827858921" />
+    <state x="685" y="469" width="540" height="174" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584911933140">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="685" y="469" width="540" height="174" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1584911933140" />
+  </component>
+</project>
