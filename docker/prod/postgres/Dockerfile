@@ -1,0 +1,6 @@
+FROM postgres:latest
+ENV POSTGRES_USER=novaera
+ENV POSTGRES_DB=novaera
+ENV POSTGRES_PASS=novaera
+ENV POSTGRES_HOST_AUTH_METHOD=trust
+ENV TZ=Europe/Belgrade
