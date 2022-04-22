@@ -67,7 +67,7 @@ pyfcm==1.4.9
 PyHamcrest==2.0.2
 PyJWT==1.7.1
 pyOpenSSL==20.0.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2019.2
 redis==3.3.8
 reportlab==3.5.56
