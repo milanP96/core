@@ -65,7 +65,7 @@ pycodestyle==2.5.0
 pycparser==2.19
 pyfcm==1.4.9
 PyHamcrest==2.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==20.0.1
 PyPDF2==1.26.0
 pytz==2019.2
