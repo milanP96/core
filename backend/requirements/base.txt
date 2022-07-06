@@ -52,7 +52,7 @@ hyperlink==21.0.0
 idna==2.10
 incremental==17.5.0
 kombu==4.6.11
-lxml==4.6.2
+lxml==4.9.1
 mandrill==1.0.59
 msgpack==1.0.2
 Pillow==6.1.0
